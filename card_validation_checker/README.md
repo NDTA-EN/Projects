@@ -1,9 +1,5 @@
 # Project
 
-_This is the folder for your final project._
-
-_Include any information that would be useful in getting it to run._
-
 The goal of this project is to read the numbers of credit cards and assign them to a provider and customer. 
 
 The providers will be the credit card companies such as:
